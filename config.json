@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Mid_Ulster_(Assembly_constituency)",
+  "wikidata": [{
+    "id": "Q6841031",
+    "start": "1973",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
